@@ -2,11 +2,8 @@
 
 A drop-in multiline extendable tooltip control
 
-
-
-
-
-![sample image 1](ToolTipEx\ToolTipEx1.gif)  ![sample image 2](ToolTipEx\ToolTipEx2.gif) 
+![sample image 1](https://raw.githubusercontent.com/ChrisMaunder/tooltipex/master/docs/assets/tooltipex1.gif)  
+![sample image 2](https://raw.githubusercontent.com/ChrisMaunder/tooltipex/master/docs/assets/tooltipex2.gif) 
 
 ## COXToolTipCtrl Overview
 
